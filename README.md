@@ -15,4 +15,3 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bonginn&show_icons=true&locale=en&theme=tokyonight" alt="bonginn" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bonginn&show_icons=true&locale=en&layout=compact" alt="bonginn" /></p>
