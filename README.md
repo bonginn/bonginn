@@ -1,7 +1,5 @@
 - 📖 I'm a NYCU CS student, Taiwan.
 
-- 🔭 I’m currently working on [NYCU_OverFlowers](https://github.com/Kai-0530/NYCU_OverFlowers)
-
 - 📫 Email : **caco.sc11@nycu.edu.tw**
 
 
